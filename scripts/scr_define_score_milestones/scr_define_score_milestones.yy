@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_define_score_milestones",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_define_score_milestones",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

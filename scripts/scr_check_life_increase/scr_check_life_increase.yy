@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_check_life_increase",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_check_life_increase",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
