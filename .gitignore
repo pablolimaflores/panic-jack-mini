@@ -1,0 +1,14 @@
+# Ignorar arquivos de compilação e binários
+*.yyz
+*.tmp
+*.log
+*.dll
+*.pdb
+*.exe
+*.zip
+
+# Ignorar diretórios temporários e de cache
+.vs/
+.idea/
+cache/
+temp/
