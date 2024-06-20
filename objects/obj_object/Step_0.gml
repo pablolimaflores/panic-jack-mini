@@ -7,7 +7,8 @@ if (global.paused) {
 }
 
 // Evento Step
-y += vspd;
+//y += vspd;
+y += global.obstacle_speed;
 
 // Aumenta o Score caso o objeto passe da tela
 if (y > (room_height + sprite_height)) {

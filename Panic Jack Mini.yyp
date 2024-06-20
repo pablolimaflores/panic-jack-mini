@@ -67,6 +67,7 @@
     {"id":{"name":"scr_handle_room_music","path":"scripts/scr_handle_room_music/scr_handle_room_music.yy",},},
     {"id":{"name":"scr_handle_screen_size","path":"scripts/scr_handle_screen_size/scr_handle_screen_size.yy",},},
     {"id":{"name":"scr_toggle_pause","path":"scripts/scr_toggle_pause/scr_toggle_pause.yy",},},
+    {"id":{"name":"scr_increase_difficulty","path":"scripts/scr_increase_difficulty/scr_increase_difficulty.yy",},},
     {"id":{"name":"snd_extra_life","path":"sounds/snd_extra_life/snd_extra_life.yy",},},
     {"id":{"name":"snd_game_over","path":"sounds/snd_game_over/snd_game_over.yy",},},
     {"id":{"name":"snd_level_music","path":"sounds/snd_level_music/snd_level_music.yy",},},

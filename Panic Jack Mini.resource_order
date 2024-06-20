@@ -46,6 +46,7 @@
     {"name":"scr_handle_room_music","order":8,"path":"scripts/scr_handle_room_music/scr_handle_room_music.yy",},
     {"name":"scr_handle_screen_size","order":3,"path":"scripts/scr_handle_screen_size/scr_handle_screen_size.yy",},
     {"name":"scr_toggle_pause","order":9,"path":"scripts/scr_toggle_pause/scr_toggle_pause.yy",},
+    {"name":"scr_increase_difficulty","order":10,"path":"scripts/scr_increase_difficulty/scr_increase_difficulty.yy",},
     {"name":"snd_extra_life","order":1,"path":"sounds/snd_extra_life/snd_extra_life.yy",},
     {"name":"snd_game_over","order":2,"path":"sounds/snd_game_over/snd_game_over.yy",},
     {"name":"snd_level_music","order":5,"path":"sounds/snd_level_music/snd_level_music.yy",},
